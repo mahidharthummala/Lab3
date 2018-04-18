@@ -13,9 +13,9 @@ private int id;
 	
 	// Default constructor
 	
-	public Employee(){
-		System.out.println("inside default constructor");
-		firstName = "NA"; 
+public Employee(){
+System.out.println("inside default constructor");
+firstName = "NA"; 
 lastName = "NA"; 
 id = ++count; 
 salary = 0;
